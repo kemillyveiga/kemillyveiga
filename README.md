@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**kemillyveiga/kemillyveiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Me chamo kemilly veiga 🐻
+- sou estudante do colégio professores
+- voltei a morar em turvo PR
+- estou no terceiro ano do ensino médio
+- ## Sobre a minha pessoa
+- sou uma pessoa querida
+- adoro os meus animais
+- minha vida é uma aventura que só eu sei
+- minha comida favorita é salada com frango
+- sou apaixonada pela minha dog, ela se chama sélia regina 
+- ### Hobies
+- cozinhar
+- correr
+- leitura
+- ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn06NFQ7hkkvUSETrjZR3ZcC3btC5QVkQi3Q&s)
+- 
