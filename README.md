@@ -2,6 +2,7 @@
 - sou estudante do colégio professores
 - voltei a morar em turvo PR
 - estou no terceiro ano do ensino médio
+- vou cursar economia 
 - ## Sobre a minha pessoa
 - sou uma pessoa querida
 - adoro os meus animais
@@ -12,5 +13,5 @@
 - cozinhar
 - correr
 - leitura
-- ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn06NFQ7hkkvUSETrjZR3ZcC3btC5QVkQi3Q&s)
-- 
+- # foto da minha dog
+-  ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn06NFQ7hkkvUSETrjZR3ZcC3btC5QVkQi3Q&s)
